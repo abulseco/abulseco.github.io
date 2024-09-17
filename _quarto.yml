@@ -2,13 +2,24 @@ project:
   type: website
   output-dir: docs
 
+execute:
+  freeze: auto
+
 website:
   title: "professional-website"
   navbar:
+    navbar:
+    background: primary
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - text: "Home"
+        href: index.qmd
+    right:
+      - icon: github
+        href: https://github.com/abulseco
+  page-footer:
+    center: "Copyright 2024, Ashley Bulseco"
+    background: secondary
+
 
 format:
   html:

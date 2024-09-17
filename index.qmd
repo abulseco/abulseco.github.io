@@ -1,11 +1,29 @@
----
-title: "Ashley N. Bulseco, Ph.D."
----
+\-\--
 
-This is a Quarto website.
+about:
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+id: header
 
-```{r}
-1 + 1
-```
+template: trestles
+
+links:
+
+ - href: https://github.com/abulseco
+
+text: GitHub
+
+icon: github
+
+ - href: https://www.linkedin.com/in/ashleybulseco
+
+text: LinkedIn
+
+icon: linkedin
+
+ - href: mailto:ashley.bulseco\@gmail.com
+
+text: Email
+
+icon: envelope-fill
+
+\-\--
