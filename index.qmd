@@ -1,29 +1,15 @@
 ---
-
 about:
-
-id: header
-
-template: trestles
-
-links:
-
- - href: https://github.com/abulseco
-
-text: GitHub
-
-icon: github
-
- - href: https://www.linkedin.com/in/ashleybulseco
-
-text: LinkedIn
-
-icon: linkedin
-
- - href: mailto:ashley.bulseco\@gmail.com
-
-text: Email
-
-icon: envelope-fill
-
+  id: header
+  template: trestles
+  links:
+    - href: https://github.com/abulseco
+      text: GitHub
+      icon: github
+    - href: https://www.linkedin.com/in/ashleybulseco
+      text: LinkedIn
+      icon: linkedin
+    - href: mailto:ashley.bulseco@gmai..com
+      text: Email
+      icon: envelope-fill
 ---
