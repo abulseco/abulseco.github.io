@@ -1,4 +1,4 @@
-\-\--
+---
 
 about:
 
@@ -26,4 +26,4 @@ text: Email
 
 icon: envelope-fill
 
-\-\--
+---
