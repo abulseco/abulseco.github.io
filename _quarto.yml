@@ -12,6 +12,7 @@ website:
     background: primary
     left:
       - text: "Home"
+      - Research.qmd
         href: index.qmd
     right:
       - icon: github
